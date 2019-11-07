@@ -1,0 +1,2 @@
+body,html{margin:0}.crossed{display:inline-block;width:auto;position:relative;overflow:hidden}.crossed:after,.crossed:before{position:absolute;content:"";background:red;display:block;width:100%;height:30px;-webkit-transform:rotate(-45deg);transform:rotate(-45deg);left:0;right:0;top:0;bottom:0;margin:auto}.crossed:after{-webkit-transform:rotate(45deg);transform:rotate(45deg)}
+/*# sourceMappingURL=main.c9d625ea.chunk.css.map */
